@@ -2,7 +2,6 @@ Lista de tareas pendientes
 
 Este es un proyecto de una aplicación de lista de tareas pendientes desarrollada en Python con la biblioteca de interfaz gráfica de usuario Tkinter.
 
-
 Funcionalidades
 
 La aplicación permite al usuario:
@@ -26,9 +25,9 @@ Instalación
     Instala la biblioteca Tkinter en tu sistema si no está instalada.
 
     Navega a la carpeta del proyecto y ejecuta el archivo tarea.py con Python 3.
-    
+
     Ejecutar desde terminal:
-    
+
     python3 tarea.py
 
 Contribuciones
