@@ -7,8 +7,7 @@ Funcionalidades
 La aplicación permite al usuario:
 
     Agregar tareas a una lista.
-    Eliminar tareas de la lista.
-    Marcar las tareas completadas.
+    Eliminar tareas cuando esten completadas.
     Fondo de pantalla azul oscuro.
 
 Tecnologías utilizadas
