@@ -23,15 +23,12 @@ Instalación
 
     Instala la biblioteca Tkinter en tu sistema si no está instalada.
 
-    Navega a la carpeta del proyecto y ejecuta el archivo main.py con Python 3.
-
-    css
-
-    python3 main.py
+    Navega a la carpeta del proyecto y ejecuta el archivo tarea.py con Python 3.
+    
+    Ejecutar desde terminal:
+    
+    python3 tarea.py
 
 Contribuciones
 
 ¡Las contribuciones son bienvenidas! Si tienes ideas para mejoras o características adicionales, crea una solicitud de extracción o abre un problema.
-Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
