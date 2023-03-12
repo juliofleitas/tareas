@@ -21,13 +21,13 @@ Instalación
 
     Asegúrate de tener Python 3 instalado en tu sistema.
 
-    Instala la biblioteca Tkinter en tu sistema si no está instalada.
-
     Navega a la carpeta del proyecto y ejecuta el archivo tarea.py con Python 3.
 
     Ejecutar desde terminal:
 
     python3 tarea.py
+    
+    Tambien cree el ejecutable para que lo puedas usar, esta en release para que lo puedas descargar.
 
 Contribuciones
 
