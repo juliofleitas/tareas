@@ -1,6 +1,8 @@
 Lista de tareas pendientes
 
 Este es un proyecto de una aplicación de lista de tareas pendientes desarrollada en Python con la biblioteca de interfaz gráfica de usuario Tkinter.
+
+
 Funcionalidades
 
 La aplicación permite al usuario:
