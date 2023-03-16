@@ -28,7 +28,3 @@ Instalación
     python3 tarea.py
     
     Tambien cree el ejecutable para que lo puedas usar, esta en release para que lo puedas descargar.
-
-Contribuciones
-
-¡Las contribuciones son bienvenidas! Si tienes ideas para mejoras o características adicionales, crea una solicitud de extracción o abre un problema.
